@@ -10,7 +10,7 @@
 
 </br>
 
-<img src="images/casual.png.jpg" name="">
+<img src="images/casual.png" name="">
 <br />
 
 ## Table of Contents
