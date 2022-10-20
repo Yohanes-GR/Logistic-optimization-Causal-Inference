@@ -10,6 +10,90 @@
 
 </br>
 
+<img src="images/casual.png.jpg" name="">
+<br />
+
+## Table of Contents
+
+* [Logistic-optimization-Causal-Inference](Overivew)
+
+  - [Project Structure](#project-structure)
+    * [images](#images)
+    * [notebooks](#notebooks)
+    * [scripts](#scripts)
+    * [root folder](#root-folder)
+  - [Installation guide](#installation-guide)
+  - [Getting Started](#getting-started)
+    * [Prerequests](*prerequests)
+    * [Installations](*installations)
+
+
+## Project Structure
+
+### images:
+
+- `images/` the folder where all snapshot for the project are stored.
+
+### notebooks:
+
+- `notebooks/` the folder which contains code snippets for algorand sdk
+
+### scripts:
+
+- `.scripts/`: the folder where the python implementation can be found.
+
+### .github:
+
+- `.github/`: the folder where github actions and CML workflow is integrated.
+
+
+### root folder
+
+- `requirements.txt`: a text file lsiting the projet's dependancies.
+- `setup.py`: a configuration file for installing the scripts as a package.
+- `README.md`: Markdown text with a brief explanation of the project and the repository structure.
+
+
+## Installation guide
+
+```bash
+git clone https://github.com/Yohanes-GR/Logistic-optimization-Causal-Inference.git
+cd Logistic-optimization-Causal-Inference
+sudo python3 setup.py install
+```
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+## Article
+- [Medium Article](https://medium.com/@yohgut)
+  
+### Installation
+
+1. Open a terminal and run:
+```bash
+git clone https://github.com/Yohanes-GR/Logistic-optimization-Causal-Inference.git
+   ```
+ Run
+   ```bash
+    sudo python3 setup.py install
+   ```
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Linkedin - [@Linkedin](https://www.linkedin.com/in/yohanes-gutema/)
 
 
 
