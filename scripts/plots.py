@@ -11,10 +11,6 @@ from IPython.display import Markdown, display, Image, display_html
 from causalnex.structure.notears import from_pandas
 
 
-from logger import get_logger 
-my_logger = get_logger("Plot")
-my_logger.debug("Loaded successfully!")
-
 class Plots:
     def __init__(self) -> None:
         pass

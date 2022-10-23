@@ -1,7 +1,4 @@
 import pandas as pd
-
-
-
 class DfOverview:
   """
       Give an overview for a given data frame, 

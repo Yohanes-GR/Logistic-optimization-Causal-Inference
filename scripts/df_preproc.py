@@ -1,5 +1,7 @@
+
 import pandas as pd
-class DataCleaning:
+
+class Df_preprocesing:
     def __init__(self) -> None:
         pass
     
